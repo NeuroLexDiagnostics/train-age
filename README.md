@@ -1,12 +1,12 @@
 # train-age
 
-Repository for training age detection models using common voice dataset. 
+Repository for training age detection models using the [Common Voice dataset](https://www.kaggle.com/mozillaorg/common-voice). 
 
 ## how to download data
 
 Before downloading, make sure you have roughly 6 GB of hard disk space on your computer. 
 
-You can download the data by going to [this link]() and clicking download (an arrow on the top right corner of page). 
+You can download the data by going to [this link](https://drive.google.com/open?id=1A30sXuo4e8VINEfh6BQKKhK84QsPjuyC) and clicking download (an arrow on the top right corner of page). 
 
 ## how data is organized
 

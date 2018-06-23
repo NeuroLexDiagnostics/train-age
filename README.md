@@ -2,6 +2,12 @@
 
 Repository for training age detection models using the [Common Voice dataset](https://www.kaggle.com/mozillaorg/common-voice). 
 
+## Team members
+
+Active members of the team working on this repo include:
+
+* Jim Schwoebel (Boston, MA) 
+
 ## how to download data
 
 Before downloading, make sure you have roughly 6 GB of hard disk space on your computer. 

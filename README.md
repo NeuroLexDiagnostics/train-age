@@ -7,6 +7,7 @@ Repository for training age detection models using the [Common Voice dataset](ht
 Active members of the team working on this repo include:
 
 * Jim Schwoebel (Boston, MA) 
+* Rajesh Singh (Nashville, TN - Vanderbilt University)
 
 ## how to download data
 
